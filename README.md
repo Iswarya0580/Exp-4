@@ -42,4 +42,4 @@ Analyze the Hospital Management System and model its components through the foll
 
 
 ## RESULT:
-The UML diagrams for the Railway Management System were successfully designed, clearly modeling the system’s structure and behavior.
+The UML diagrams for the Hospital Management System were successfully designed, effectively modeling the system’s structure, workflow, and interactio
